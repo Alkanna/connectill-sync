@@ -5,4 +5,8 @@
         "laminas/laminas-httphandlerrunner": "^1.2",
         "filp/whoops": "^2.7"
     }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
 }
